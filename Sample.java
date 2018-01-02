@@ -1,6 +1,6 @@
 public class Sample
 {
-public static void maine(String args[])
+public static void main(String args[])
 {
 System.out.println("Hello ");
 }
